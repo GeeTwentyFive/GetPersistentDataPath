@@ -1,3 +1,5 @@
+// GetPersistentDataPath - https://github.com/GeeTwentyFive/GetPersistentDataPath
+
 #ifndef _GET_PERSISTENT_DATA_PATH_H
 #define _GET_PERSISTENT_DATA_PATH_H
 
